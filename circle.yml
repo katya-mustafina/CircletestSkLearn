@@ -3,4 +3,4 @@ machine:
     - docker
 dependencies:
   pre:
-    - pip install numpy scipy scikit-learn
+    - pip install numpy scipy scikit-learn pytest
