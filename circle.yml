@@ -1,0 +1,6 @@
+machine:
+  services:
+    - docker
+dependencies:
+  pre:
+    - pip install numpy scipy scikit-learn
