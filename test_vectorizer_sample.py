@@ -3,6 +3,7 @@ from unittest import TestCase
 
 class TestSimpleVectorizer(TestCase):
     def test_unittest0(self):
+        self.assertTrue(1==0)
         pass
 
     def test_unittest1(self):
